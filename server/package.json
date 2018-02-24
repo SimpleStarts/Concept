@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "colors": "^1.1.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo 'Yeah not yet'",
+    "test": "echo 'only in prod'"
+  }
+}

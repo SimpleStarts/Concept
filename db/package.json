@@ -1,0 +1,14 @@
+{
+  "name": "db",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "colors": "^1.1.2",
+    "mongodb": "^3.0.2"
+  },
+  "scripts": {
+    "start": "node db.js",
+    "build": "words",
+    "test": "words"
+  }
+}
